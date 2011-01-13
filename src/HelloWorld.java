@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello world.");
 		System.out.println("Just another test.");
 		System.out.println("Jaye was here.");
-		System.out.println("Waka Waka");
+		System.out.println("Waka Waka!!!");
 	}
 
 }
